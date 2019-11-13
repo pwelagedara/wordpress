@@ -1,3 +1,3 @@
 # wordpress
 
-(Blog Article)[https://pwelagedara.com/cloudformation-template-for-a-wordpress-blog/]
+(https://pwelagedara.com/cloudformation-template-for-a-wordpress-blog/)[Blog Article]
